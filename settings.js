@@ -44,7 +44,7 @@ global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
-global.alivelogo = `https://c4.wallpaperflare.com/wallpaper/668/104/991/actress-beautiful-beauty-bollywood-wallpaper-preview.jpg`
+global.alivelogo = ``
 global.alive =`─ ⋞ 〈🛑 *🄷🄴🅈 🅃🄷🄴🅁🄴* 🛑〉 ⋟ ─
 
 ⫺ ╤╤╧╧╤╤ ⋞ 〈 ⫹⫺ 〉 ⋟ ╤╤╧╧╤╤ ⫹
